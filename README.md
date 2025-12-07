@@ -30,6 +30,6 @@ This table shows the percentage of new and returning customers each month. The t
 
 
 ## No. of New customers and Repeat customers by Year and Month
-This table shows the no. of new and returning customers each month.
+This table shows the no. of new and returning customers each month..
 
 <img width="753" alt="image" src="https://user-images.githubusercontent.com/43938345/219872850-822224db-8c2c-4173-8438-fa0b33bd9e9d.png">
