@@ -1,4 +1,4 @@
-# Cohort-Analysis
+# Cohort-Analysis 
 
 ## What is Cohort Analysis?
 A cohort is a group of people who share a common characteristic over a certain period of time, such as users that have become customers at approximately the same time, a graduating class of students, or contact tracing individuals during a pandemic.
